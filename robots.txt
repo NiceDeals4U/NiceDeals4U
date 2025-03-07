@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nicedeals4u.github.io/NiceDeals4U/
